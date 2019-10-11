@@ -1,0 +1,79 @@
+
+#CartePostale {
+    height: 500px;
+    width: 800px;
+    border: solid 1px black;
+    margin-left: 400px;
+    margin-top: 100px;
+    }
+
+#PartieGauche {
+    height: 240px;
+    width: 380px;
+    border: solid 1px black;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 40px;
+    padding-top: 160px;
+    margin-top: 20px;
+    padding-bottom: 60px;
+    border-bottom: none;
+    border-left: none;
+    border-top: none;
+    line-height: 20px;
+    font-family: Arial;
+    font-size: 18px;
+    display: inline-block;
+}
+
+#PartieDroite {
+    border: black 1px solid;
+    height: 440px;
+    width: 340px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+
+}
+
+#Timbre {
+    height: 100px;
+    width: 80px;
+    border: solid 1px black;
+    display: inline-block;
+    float: right;
+
+
+}
+
+#Lignes{
+
+}
+
+
+#Ligne1{
+    color: black;
+    size: 4px;
+    width: 160px;
+    margin-top: 220px;
+
+}
+
+#Ligne2, #Ligne3 {
+    size: 4px;
+    width: 160px;
+    margin-top: 40px;
+
+}
+
+#Ligne4 {
+    size: 4px;
+    width: 120px;
+    margin-top: 40px;
+}
+
+#CodePostal {
+    height: 20px;
+    width: 10px;
+    border: black 1px solid;
+}
