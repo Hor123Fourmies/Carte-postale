@@ -34,6 +34,7 @@
     vertical-align: top;
     margin-top: 20px;
 
+
 }
 
 #Timbre {
@@ -42,38 +43,46 @@
     border: solid 1px black;
     display: inline-block;
     float: right;
-
-
 }
 
 #Lignes{
-
+    margin-left: 50px;
 }
 
 
 #Ligne1{
     color: black;
     size: 4px;
-    width: 160px;
+    width: 180px;
     margin-top: 220px;
 
 }
 
 #Ligne2, #Ligne3 {
     size: 4px;
-    width: 160px;
+    width: 180px;
     margin-top: 40px;
 
 }
 
 #Ligne4 {
     size: 4px;
-    width: 120px;
+    width: 140px;
     margin-top: 40px;
+
 }
 
-#CodePostal {
+.CodePostal {
     height: 20px;
     width: 10px;
     border: black 1px solid;
+    display: inline-block;
+
+
 }
+
+#groupeCP {
+margin-left: 20px;
+}
+
+
