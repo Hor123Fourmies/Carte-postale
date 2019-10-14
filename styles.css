@@ -27,13 +27,12 @@
 }
 
 #PartieDroite {
-    border: black 1px solid;
+    border: none;
     height: 440px;
     width: 340px;
     display: inline-block;
     vertical-align: top;
     margin-top: 20px;
-
 
 }
 
@@ -46,7 +45,7 @@
 }
 
 #Lignes{
-    margin-left: 50px;
+    margin-left: 60px;
 }
 
 
@@ -55,7 +54,6 @@
     size: 4px;
     width: 180px;
     margin-top: 220px;
-
 }
 
 #Ligne2, #Ligne3 {
@@ -69,7 +67,7 @@
     size: 4px;
     width: 140px;
     margin-top: 40px;
-
+    margin-left: 85px;
 }
 
 .CodePostal {
@@ -77,12 +75,10 @@
     width: 10px;
     border: black 1px solid;
     display: inline-block;
-
-
 }
 
-#groupeCP {
-margin-left: 20px;
+#GroupeCP {
+    margin-left: 20px;
 }
 
 
